@@ -10,3 +10,5 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 2. Google Trends
 3. Yahoo Finance for Tesla Stock Price
 4. Yahoo Finance for Bitcoin Stock Price
+
+https://github.com/Subham1845/Google-Trends-EDA-and-Data-Visualization/blob/main/Google%20Trends%20and%20Data%20Visualisation.ipynb
