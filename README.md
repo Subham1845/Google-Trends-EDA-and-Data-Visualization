@@ -6,7 +6,7 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 
 ### Data Sources:
 
-Unemployment Rate from FRED
-Google Trends
-Yahoo Finance for Tesla Stock Price
-Yahoo Finance for Bitcoin Stock Price
+1. Unemployment Rate from FRED
+2. Google Trends
+3. Yahoo Finance for Tesla Stock Price
+4. Yahoo Finance for Bitcoin Stock Price
